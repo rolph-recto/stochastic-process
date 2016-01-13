@@ -2,5 +2,5 @@
 Simulations of various stochastic processes.
 
 * discrete random walks on the integers
-* (TODO) birth/death processes (discrete state, continuous time)
+* birth/death processes (discrete state, continuous time)
 * (TODO) Brownian motion
